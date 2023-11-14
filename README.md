@@ -30,7 +30,9 @@ crontab -e
 ```
 
 /root/hostloc/为你上传的路径
+
 /usr/local/bin/python3为你小鸡python3的引用路径
+/usr/bin/python3
 
 **提示**
 
