@@ -52,6 +52,11 @@ Traceback (most recent call last):
 pip3 install requests
 ```
 
+安装不上使用：
+```
+sudo apt install python3-package_name
+```
+
 2.老哥们可先运行成功以后再添加crontab任务
 
 ```shell
