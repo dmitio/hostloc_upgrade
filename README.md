@@ -28,6 +28,8 @@ crontab -e
 ```shell
 10 2 * * * sleep 5;cd /root/hostloc/ && /usr/local/bin/python3 /root/hostloc/hostloc_auto_get_points.py
 ```
+10 2 * * * sleep 5;cd /root/hostloc/ && /usr/bin/python3 /root/hostloc/hostloc.py
+```
 
 /root/hostloc/为你上传的路径
 
