@@ -4,7 +4,7 @@
 
 
 **第一步**下载下列代码
-https://github.com/Jox2018/hostloc_getPoints/blob/main/hostloc_.py
+[https://github.com/Jox2018/hostloc_getPoints/blob/main/hostloc_.py](https://github.com/nanyi212/hostloc_upgrade/blob/main/hostloc.py)
 **第二步**把175，176行代码改为
 ```
 username = "账户"
