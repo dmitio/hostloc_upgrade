@@ -67,6 +67,14 @@ sudo apt install python3-package_name
 cd /root/hostloc/ && /usr/local/bin/python3 /root/hostloc/hostloc_auto_get_points.py
 ```
 
+安装：
+sudo apt-get update
+sudo apt-get install python3-pip
+
+pip3 install pyaes
+
+pip3 install requests
+
 
 
 env
