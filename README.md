@@ -71,6 +71,7 @@ cd /root/hostloc/ && /usr/local/bin/python3 /root/hostloc/hostloc_auto_get_point
 sudo apt-get update
 sudo apt-get install python3-pip
 
+
 pip3 install pyaes
 
 pip3 install requests
