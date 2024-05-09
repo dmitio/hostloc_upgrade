@@ -73,8 +73,10 @@ sudo apt-get install python3-pip
 
 
 pip3 install pyaes
+sudo apt install python3-pyaes
 
 pip3 install requests
+sudo apt install python3-requests
 
 
 
